@@ -1,0 +1,23 @@
+{
+  "name": "jesttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegitpro/jesttest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codegitpro/jesttest/issues"
+  },
+  "homepage": "https://github.com/codegitpro/jesttest#readme",
+  "devDependencies": {
+    "jest": "^25.2.3"
+  }
+}
